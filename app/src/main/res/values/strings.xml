@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LinearLayoutTest</string>
+    <string name="button_text">线性布局的练习</string>
 </resources>
