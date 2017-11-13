@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">LinearLayoutTest</string>
     <string name="button_text">线性布局的练习</string>
+    <string name="edit_text">小黑你可长点心吧</string>
+    <string name="string_text">使用字符串资源</string>
 </resources>
